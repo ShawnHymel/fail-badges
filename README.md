@@ -20,7 +20,7 @@ Badge designs must be in .SVG format and adhere to the [Hex Stickers Standard](h
 
 ![Badge dimensions](https://raw.githubusercontent.com/ShawnHymel/fail-badges/gh-pages/assets/dimensions.png)
 
-Use a program like [Inkscape](https://github.com/terinjokes/StickersStandard) to create your design. We recommend starting with the [hex image tamplate](https://github.com/terinjokes/StickersStandard/blob/master/assets/hex-image.svg) as a base.
+Use a program like [Inkscape](https://github.com/terinjokes/StickersStandard) to create your design. We recommend starting with the [hex image template](https://github.com/terinjokes/StickersStandard/blob/master/assets/hex-image.svg) as a base.
 
 * Make sure you own the rights to the image you are submitting!
 * Clone this repo
@@ -58,7 +58,7 @@ fail-badges/
 
 Make a pull request to this repo! See [this guide](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) for help on making pull requests.
 
-## Resoruces
+## Resources
 
 Here are some tools that can help you automatically generate stickers:
 
