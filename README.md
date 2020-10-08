@@ -41,6 +41,8 @@ Here is a meta.json template:
 }
 ```
 
+Please be descriptive in the description! This should help people know what the badge represents.
+
 When done, your directory structure should look like this:
 
 ```
