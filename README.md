@@ -54,7 +54,7 @@ fail-badges/
 |- README.md
 ```
 
-Make a pull request to this repo!
+Make a pull request to this repo! See [this guide](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) for help on making pull requests.
 
 ## Resoruces
 
