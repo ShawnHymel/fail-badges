@@ -18,7 +18,7 @@ TODO
 
 Badge designs must be in .SVG format and adhere to the [Hex Stickers Standard](https://github.com/terinjokes/StickersStandard). That way, they all have the same size and shape. Learn more about the hex sticker format [here](http://hexb.in/sticker.html).
 
-![Badge dimensions](https://raw.githubusercontent.com/ShawnHymel/fail-badges/master/assets/dimensions.png)
+![Badge dimensions](https://raw.githubusercontent.com/ShawnHymel/fail-badges/gh-pages/assets/dimensions.png)
 
 Use a program like [Inkscape](https://github.com/terinjokes/StickersStandard) to create your design. We recommend starting with the [hex image tamplate](https://github.com/terinjokes/StickersStandard/blob/master/assets/hex-image.svg) as a base.
 
@@ -33,9 +33,9 @@ Here is a meta.json template:
 ```
 {
   "name": "txrx-fail",
-  "author": "ShawnHymel",
+  "author": "Shawn Hymel",
   "license": "CC0",
-  "url": "https://raw.githubusercontent.com/ShawnHymel/fail-badges/master/badges/txrx-fail/txrx-fail.svg",
+  "url": "https://raw.githubusercontent.com/ShawnHymel/fail-badges/gh-pages/badges/txrx-fail/txrx-fail.svg",
   "description": "Show that you've messed up the TX/RX wiring on a serial bus at least once!",
   "sticker_url": "(optional) add a url to an online store that will make and ship a sticker version of your badge"
 }
