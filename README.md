@@ -50,6 +50,7 @@ fail-badges/
 |----- meta.json
 |----- my-badge.svg
 |----- ...
+|--- ...
 |- README.md
 ```
 
