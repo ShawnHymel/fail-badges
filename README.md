@@ -20,7 +20,7 @@ Badge designs must be in .SVG format and adhere to the [Hex Stickers Standard](h
 
 ![Badge dimensions](https://raw.githubusercontent.com/ShawnHymel/fail-badges/gh-pages/assets/dimensions.png)
 
-Use a program like [Inkscape](https://github.com/terinjokes/StickersStandard) to create your design. We recommend starting with the [hex image template](https://github.com/terinjokes/StickersStandard/blob/master/assets/hex-image.svg) as a base.
+Use a program like [Inkscape](https://github.com/terinjokes/StickersStandard) to create your design. We recommend starting with the [hex image template](https://raw.githubusercontent.com/ShawnHymel/fail-badges/gh-pages/badges/template/template.svg) found in the `badges/` directory as a base.
 
 * Make sure you own the rights to the image you are submitting!
 * Clone this repo
