@@ -12,7 +12,7 @@
    viewBox="0 0 198.425 198.425"
    version="1.1"
    id="svg4534"
-   sodipodi:docname="semicolon.svg"
+   sodipodi:docname="close-parenthesis.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata4540">
@@ -22,6 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,8 +42,8 @@
      id="namedview4536"
      showgrid="false"
      inkscape:zoom="2.4568476"
-     inkscape:cx="71.907383"
-     inkscape:cy="97.554607"
+     inkscape:cx="-12.470021"
+     inkscape:cy="75.463154"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -59,14 +60,14 @@
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#56ff00;fill-opacity:1;stroke:none"
-     x="75.680649"
-     y="113.37917"
+     x="74.337502"
+     y="120.8375"
      id="text4544"><tspan
        sodipodi:role="line"
        id="tspan4542"
-       x="75.680649"
-       y="113.37917"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.33333588px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#56ff00;fill-opacity:1">;</tspan></text>
+       x="74.337502"
+       y="120.8375"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.33333588px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#56ff00;fill-opacity:1">}</tspan></text>
   <path
      inkscape:connector-curvature="0"
      style="fill:#ffffff;fill-opacity:1"
