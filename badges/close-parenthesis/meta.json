@@ -1,7 +1,0 @@
-{
-    "name": "close-parenthesis",
-    "author": "Shawn Hymel",
-    "license": "CC0",
-    "url": "https://raw.githubusercontent.com/ShawnHymel/fail-badges/gh-pages/badges/close-parenthesis/close-parenthesis.svg",
-    "description": "The compiler yelled at you for forgetting a close parenthesis."
-  }

@@ -24,21 +24,22 @@ Use a program like [Inkscape](https://github.com/terinjokes/StickersStandard) to
 
 * Make sure you own the rights to the image you are submitting!
 * Clone this repo
-* Create a new folder in the `badges/` directory with the name of your badge, using only lowercase letters, numbers, and hyphens
-* Give your .svg file a name using only lowercase letters, numbers, and hyphens
-* Add your .svg graphic and a meta.json file containing information about your design
+* Give your .svg file a name using only lowercase letters, numbers, and hyphens.
+* Add your .svg graphic to the `badges/` directory.
+* Add a md file with the current date in `YEAR-MONTH-DAY-title` format, containing information about your design to the `_posts` directory.
 
-Here is a meta.json template:
+Here is a md file template:
 
 ```
-{
-  "name": "txrx-fail",
-  "author": "Shawn Hymel",
-  "license": "CC0",
-  "url": "https://raw.githubusercontent.com/ShawnHymel/fail-badges/gh-pages/badges/txrx-fail/txrx-fail.svg",
-  "description": "Show that you've messed up the TX/RX wiring on a serial bus at least once!",
-  "sticker_url": "(optional) add a url to an online store that will make and ship a sticker version of your badge"
-}
+---
+layout: post
+title:  template
+author: Yoshua Wuyts
+license: CC BY 4.0
+image: template.svg
+description: Template hex badge from github.com/terinjokes/StickersStandard
+sticker_url: (optional) add a url to an online store that will make and ship a sticker version of your badge
+---
 ```
 
 Please be descriptive in the description! This should help people know what the badge represents.
@@ -47,11 +48,11 @@ When done, your directory structure should look like this:
 
 ```
 fail-badges/
+|- _posts/
+|--- 2020-10-15-my-badge.md
+|--- ..
 |- badges/
-|--- my-badge/
-|----- meta.json
-|----- my-badge.svg
-|----- ...
+|--- my-badge.svg
 |--- ...
 |- README.md
 ```
@@ -67,6 +68,6 @@ Here are some tools that can help you automatically generate stickers:
 
 ## License and Credits
 
-See meta.json in each badge folder to view the license information for that particular sticker.
+See `license` in each badge post md file to view the license information for that particular sticker.
 
 Sticker specifications and repo layout credits go to [hexbin](http://hexb.in/).

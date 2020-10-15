@@ -1,7 +1,0 @@
-{
-    "name": "semicolon",
-    "author": "Shawn Hymel",
-    "license": "CC0",
-    "url": "https://raw.githubusercontent.com/ShawnHymel/fail-badges/gh-pages/badges/semicolon/semicolon.svg",
-    "description": "The compiler yelled at you for forgetting a semicolon."
-  }
