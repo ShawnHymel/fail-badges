@@ -1,0 +1,7 @@
+{
+    "name": "Failed Print",
+    "author": "Techniack",
+    "license": "CC BY 4.0",
+    "url": "https://raw.githubusercontent.com/ShawnHymel/fail-badges/gh-pages/badges/spaghetti/spaghetti.svg",
+    "description": "You forgot to level the bed and your print failed!"
+  }s
