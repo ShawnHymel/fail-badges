@@ -22,7 +22,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,9 +40,9 @@
      inkscape:window-height="1176"
      id="namedview4536"
      showgrid="false"
-     inkscape:zoom="2.4568476"
-     inkscape:cx="8.638971"
-     inkscape:cy="144.59624"
+     inkscape:zoom="4.9136953"
+     inkscape:cx="110.14055"
+     inkscape:cy="125.66417"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -53,12 +52,13 @@
      d="M39.425 133.768v-69.11l60-34.561 60 34.561v69.11l-60 34.56z"
      id="path4530" />
   <path
-     fill="#050507"
-     d="M98.925 32.983l57.5 33.119v66.221l-57.5 33.119-57.5-33.119V66.102l57.5-33.119zm0-5.771l-62.5 36v72.001l62.5 36 62.5-36V63.212l-62.5-36z"
-     id="path4532" />
+     style="fill:#282828;fill-opacity:1"
+     d="m 99.2125,27.212003 -62.5,36 V 135.213 l 62.5,36 62.5,-36 V 63.212003 Z"
+     id="path4532"
+     inkscape:connector-curvature="0" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#56ff00;fill-opacity:1;stroke:none;"
      x="72.306694"
      y="115.15"
      id="text4544"><tspan
@@ -66,5 +66,10 @@
        id="tspan4542"
        x="72.306694"
        y="115.15"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">;</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#56ff00;fill-opacity:1;">;</tspan></text>
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff;fill-opacity:1"
+     d="m 99.2125,32.983003 57.5,33.119 V 132.323 l -57.5,33.119 -57.499997,-33.119 V 66.102003 Z m 0,-5.771 -62.499997,36 V 135.213 l 62.499997,36 62.5,-36 V 63.212003 Z"
+     id="path4532-4" />
 </svg>
