@@ -6,5 +6,5 @@ layout: home
 ---
 
 {%- for post in site.posts -%}
-<a href="{{ post.url }}"><img width="200" height="200" src="/badges/{{ post.image }}" alt="{{ post.name }}" title="{{ post.description }}" /></a>
+<a href="{{ post.url | relative_url }}"><img width="200" height="200" src="{{ site.baseurl }}/badges/{{ post.image }}" alt="{{ post.name }}" title="{{ post.description }}" /></a>
 {%- endfor -%}

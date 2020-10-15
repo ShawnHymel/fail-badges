@@ -24,8 +24,8 @@ author: Shawn Hymel
 description: >- # this means to ignore newlines until "baseurl:"
   Ever wanted to wear your fails like a badge of honor? Proud that you burned your hand with a soldering iron? Got TX/RX mixed up?
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: /fail-badges # the subpath of your site, e.g. /blog
+url: https://shawnhymel.github.io/fail-badges # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ShawnHymel
 github_username: ShawnHymel
 
