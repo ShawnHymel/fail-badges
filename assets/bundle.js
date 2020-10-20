@@ -7,12 +7,12 @@ $.getJSON('assets/data.json', function (data) {
   $.each(shuffled, function (key, val) {
     var img = $('<img />', {
       'class': 'hex',
-      'src': val.raster,
+      'src': val.url,
       'alt': val.description,
     })
 
     $('<a />', {
-      'href': "http://hexb.in/" + val.filename,
+      'href': "http://failbadges.com/" + val.filename,
       'target': '_blank'
     }).append(img).appendTo('#grid')
   })
