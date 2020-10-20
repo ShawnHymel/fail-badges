@@ -1,0 +1,23 @@
+{
+  "name": "failbadges",
+  "version": "0.0.1",
+  "description": "failbadges directory",
+  "main": "grid.js",
+  "scripts": {
+    "build": "node build.js && browserify assets/grid.js -o assets/bundle.js",
+    "test": "standard",
+    "start": "wzrd assets/grid.js:assets/bundle.js"
+  },
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "hex-grid": "^2.0.1",
+    "jsonlint": "^1.6.2"
+  },
+  "devDependencies": {
+    "browserify": "^7.0.0",
+    "glob": "^6.0.4",
+    "standard": "^5.4.1",
+    "wzrd": "^1.4.0"
+  }
+}

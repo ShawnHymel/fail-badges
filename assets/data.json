@@ -1,0 +1,76 @@
+[
+  {
+    "name": "close-parenthesis",
+    "author": "Shawn Hymel",
+    "license": "CC0",
+    "url": "https://raw.githubusercontent.com/ShawnHymel/fail-badges/gh-pages/badges/close-parenthesis/close-parenthesis.svg",
+    "description": "The compiler yelled at you for forgetting a close parenthesis.",
+    "filename": "badges/close-parenthesis/meta.json"
+  },
+  {
+    "name": "connectorflipup",
+    "author": "Tuomas Järvinen",
+    "license": "CC0",
+    "url": "https://raw.githubusercontent.com/ShawnHymel/fail-badges/gh-pages/badges/connectorflipup/connectorflipup.svg",
+    "description": "Forgot to rotate the connector in the middle",
+    "sticker_url": "(optional)",
+    "filename": "badges/connectorflipup/meta.json"
+  },
+  {
+    "name": "EMC emissions fail",
+    "author": "Matt Venn",
+    "license": "CC0",
+    "url": "https://raw.githubusercontent.com/ShawnHymel/fail-badges/gh-pages/badges/emc-emissions-fail/emc-emissions-fail.svg",
+    "description": "You take your great product to the compliance lab and they dash your hopes of an easy pass with this graph",
+    "filename": "badges/emc-emissions-fail/meta.json"
+  },
+  {
+    "name": "end-tag",
+    "author": "Shawn Hymel",
+    "license": "CC0",
+    "url": "https://raw.githubusercontent.com/ShawnHymel/fail-badges/gh-pages/badges/end-tag/end-tag.svg",
+    "description": "Your web page looks wonky because you forgot one of these.",
+    "filename": "badges/end-tag/meta.json"
+  },
+  {
+    "name": "Failed Print",
+    "author": "Techniack",
+    "license": "CC BY 4.0",
+    "url": "https://raw.githubusercontent.com/ShawnHymel/fail-badges/gh-pages/badges/failed-print/FailedPrint.svg",
+    "description": "You forgot to level the bed and your print failed!",
+    "filename": "badges/failed-print/meta.json"
+  },
+  {
+    "name": "semicolon",
+    "author": "Shawn Hymel",
+    "license": "CC0",
+    "url": "https://raw.githubusercontent.com/ShawnHymel/fail-badges/gh-pages/badges/semicolon/semicolon.svg",
+    "description": "The compiler yelled at you for forgetting a semicolon.",
+    "filename": "badges/semicolon/meta.json"
+  },
+  {
+    "name": "Solder Burn",
+    "author": "Andrew Jaswa",
+    "license": "CC0",
+    "url": "https://raw.githubusercontent.com/ShawnHymel/fail-badges/gh-pages/badges/solder-burn/solder-burn.svg",
+    "description": "For those times when you've burned your hand with a soldering iron.",
+    "filename": "badges/solder-burn/meta.json"
+  },
+  {
+    "name": "TX RX Fail",
+    "author": "Andrew Jaswa",
+    "license": "CC0",
+    "url": "https://raw.githubusercontent.com/ShawnHymel/fail-badges/gh-pages/badges/txrx-fail/txrx-fail.svg",
+    "description": "TX RX labels are evil.",
+    "filename": "badges/txrx-fail/meta.json"
+  },
+  {
+    "name": "unevenground",
+    "author": "Tuomas Järvinen",
+    "license": "CC0",
+    "url": "https://raw.githubusercontent.com/ShawnHymel/fail-badges/gh-pages/badges/unevenground/unevenground.svg",
+    "description": "Forget to link grounds on different pcbs",
+    "sticker_url": "(optional)",
+    "filename": "badges/unevenground/meta.json"
+  }
+]

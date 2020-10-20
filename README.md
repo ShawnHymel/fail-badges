@@ -69,4 +69,4 @@ Here are some tools that can help you automatically generate stickers:
 
 See meta.json in each badge folder to view the license information for that particular sticker.
 
-Sticker specifications and repo layout credits go to [hexbin](http://hexb.in/).
+Sticker specifications, repo layout, and much code credits go to [hexbin](http://hexb.in/).
