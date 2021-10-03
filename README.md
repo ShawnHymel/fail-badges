@@ -6,6 +6,32 @@ We're here for you, and we want to celebrate failures, because they're part of t
 
 Download the SVG's for printing or put them on your website!
 
+## Badges
+
+<table>
+  <tr>
+    <td>The compiler yelled at you for forgetting a close parenthesis.<br><img src="https://raw.githubusercontent.com/ShawnHymel/fail-badges/gh-pages/badges/close-parenthesis/close-parenthesis.svg" width="125" title="parenthesis badge" /></td>
+    <td>Forgot to rotate the connector in the middle<br><img src="https://raw.githubusercontent.com/ShawnHymel/fail-badges/gh-pages/badges/connectorflipup/connectorflipup.svg" width="125" title="Connector badge" /></td>
+    <td>You take your great product to the compliance lab and they dash your hopes of an easy pass with this graph<br><img src="https://raw.githubusercontent.com/ShawnHymel/fail-badges/gh-pages/badges/emc-emissions-fail/emc-emissions-fail.svg" width="125" title="EMC emissions fail badge" /></td>
+    <td>Your web page looks wonky because you forgot one of these.<br><img src="https://raw.githubusercontent.com/ShawnHymel/fail-badges/gh-pages/badges/end-tag/end-tag.svg"" width="125" title="end tag badge" /></td>
+  </tr>
+  
+  <tr>
+    <td>You forgot to level the bed and your print failed!<br><img src="https://raw.githubusercontent.com/ShawnHymel/fail-badges/gh-pages/badges/failed-print/FailedPrint.svg" width="125" title="Failed Print badge" /></td>
+    <td>Were you even paying attention, or were you just doodling on the desk?<br><img src="https://raw.githubusercontent.com/ShawnHymel/fail-badges/gh-pages/badges/failed-to-pay-attention-in-class/failed-to-pay-attention-in-class.svg" width="125" title="didn't pay attention in class badge" /></td>
+    <td>You overvolted another board and let the magic smoke out!<br><img src="https://raw.githubusercontent.com/ShawnHymel/fail-badges/gh-pages/badges/magic-smoke/MagicSmoke.svg" width="125" title="Magic Smoke badge" /></td>
+    <td>The compiler yelled at you for forgetting a semicolon.<br><img src="https://raw.githubusercontent.com/ShawnHymel/fail-badges/gh-pages/badges/semicolon/semicolon.svg" width="125" title="semicolon badge" /></td>
+  </tr>
+  
+  
+  <tr>
+    <td>For those times when you've burned your hand with a soldering iron.<br><img src="https://raw.githubusercontent.com/ShawnHymel/fail-badges/gh-pages/badges/solder-burn/solder-burn.svg" width="125" title="Solder Burn badge" /></td>
+    <td>TX RX labels are evil.<br><img src="https://raw.githubusercontent.com/ShawnHymel/fail-badges/gh-pages/badges/txrx-fail-color/txrx-fail-color.svg" width="125" title="TX RX Fail (now in color!) badge" /></td>
+    <td>TX RX labels are evil.<br><img src="https://raw.githubusercontent.com/ShawnHymel/fail-badges/gh-pages/badges/txrx-fail/txrx-fail.svg" width="125" title="TX RX Fail badge" /></td>
+    <td>Forget to link grounds on different pcbs<br><img src="https://raw.githubusercontent.com/ShawnHymel/fail-badges/gh-pages/badges/unevenground/unevenground.svg" width="125" title="uneven ground badge" /></td>
+  </tr>
+</table>
+
 ## How to Print Badges
 
 TODO
